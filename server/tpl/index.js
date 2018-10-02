@@ -1,4 +1,6 @@
-const normalTpl =require('./normal')
 module.exports = {
-    normal:normalTpl
+    htmlTpl:require('./htmlTpl'),
+    ejsTpl:require('./ejsTpl'),
+    pugTpl:require('./pugTpl'),
+
 }
