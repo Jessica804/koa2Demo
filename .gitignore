@@ -9,3 +9,6 @@ npm-debug.log
 
 # Build 
 build
+
+# private info
+server/config/index.js
